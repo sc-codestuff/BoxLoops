@@ -10,7 +10,7 @@ public class PrisonerBoxProblem {
     static int numOfRuns = 100000;
 
     public static void main(String[] args) {
-        //create a box with the desired number of numbers inside
+        //create a box with the desired numbers inside
         createBox();
 
         //counter to track number of successful attempts (all numbers found)
